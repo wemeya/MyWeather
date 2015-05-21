@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="title_update_progressbar_style">
+        <item name="android:maxWidth">45.0dip</item>
+        <item name="android:maxHeight">45.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/title_update_anim</item>
+        <item name="android:minWidth">45.0dip</item>
+        <item name="android:minHeight">45.0dip</item>
+    </style>
+</resources>
